@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently pursuing Btech information technolgy
 - 💞️ I’m looking to collaborate on company
-- 📫 How to reach me muneeshwaran2346@gmail.com
+- 📫 How to reach me muneeshwaran2326@gmail.com
 
 <!---
 Muneesh27/Muneesh27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
